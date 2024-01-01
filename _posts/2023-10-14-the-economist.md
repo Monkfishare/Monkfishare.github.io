@@ -96,11 +96,11 @@ mermaid: true
 
 - [Greasyfork script](https://greasyfork.org/en/scripts/441874-%E5%AD%A6%E4%BA%BAvip)
 
-- [TEGBR](https://monkfishare.github.io/TEGBR/TE_GBR.pdf)(2023)
+- [TEGBR](https://monkfishare.github.io/TEGBR/TE_GBR.pdf)(2024)
 
-  | [2022](https://monkfishare.github.io/TEGBR/TE_GBR_2022.pdf) | [2021](https://monkfishare.github.io/TEGBR/TE_GBR_2021.pdf) | [2020](https://monkfishare.github.io/TEGBR/TE_GBR_2020.pdf) | [2019](https://monkfishare.github.io/TEGBR/TE_GBR_2019.pdf) |
+  | [2023](https://monkfishare.github.io/TEGBR/TE_GBR_2023.pdf) | [2022](https://monkfishare.github.io/TEGBR/TE_GBR_2022.pdf) | [2021](https://monkfishare.github.io/TEGBR/TE_GBR_2021.pdf) | [2020](https://monkfishare.github.io/TEGBR/TE_GBR_2020.pdf) |
   | :---------------------------------------------------------- | :---------------------------------------------------------- | :---------------------------------------------------------- | :---------------------------------------------------------- |
-  | [2018](https://monkfishare.github.io/TEGBR/TE_GBR_2018.pdf) | [2017](https://monkfishare.github.io/TEGBR/TE_GBR_2017.pdf) | [2016](https://monkfishare.github.io/TEGBR/TE_GBR_2016.pdf) | [2015](https://monkfishare.github.io/TEGBR/TE_GBR_2015.pdf) |
+  | [2019](https://monkfishare.github.io/TEGBR/TE_GBR_2019.pdf) | [2018](https://monkfishare.github.io/TEGBR/TE_GBR_2018.pdf) | [2017](https://monkfishare.github.io/TEGBR/TE_GBR_2017.pdf) | [2016](https://monkfishare.github.io/TEGBR/TE_GBR_2016.pdf) |
 
 ### Translation extension
 
